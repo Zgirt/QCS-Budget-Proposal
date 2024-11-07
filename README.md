@@ -56,7 +56,7 @@ The SFO team supports other workgroups with strategy, operations, and finance. I
 
 ---
 
-## Frequently Asked Questions (FAQ)  **WILL CONTINUE TO UPDATE FAQ's As we go along**
+## Frequently Asked Questions (FAQ)  **WILL CONTINUE TO UPDATE FAQ's AS WE PROCEED**
 
 **Q: Why is additional funding needed now?**  
 A: We need more marketing power to capitalize on the bull run through ads on X and Telegram, paid sponsorships, and KOLs. Additionally, our U.S. market expansion requires a larger budget.
