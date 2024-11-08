@@ -46,13 +46,13 @@ The SOF team supports the other workgroups with strategy, operations, and financ
 
 **Table 1**  
 
-![table 1](https://github.com/user-attachments/assets/a1cad879-b563-4d1e-a136-456a96f7e5fe)
+![384025112-a1cad879-b563-4d1e-a136-456a96f7e5fe](https://github.com/user-attachments/assets/5cdd29ac-a001-49a5-8bd6-a337c96af771)
 
 From Table 1, we are requesting **552 bnQu** for base operations over 3 months, likely split into 3 monthly requests. Optional marketing boosters could increase the request to **663 bnQu** and **712 bnQu** respectively. This budget is below the CCF income rate, leaving funds available for other initiatives. The payout schedule depends on other proposals. See Table 2 for CCF balance projections including Core Tech budget assumption.
 
 **Table 2**
 
-![table 2](https://github.com/user-attachments/assets/0a17a202-dbc8-4f61-89cd-3fafc44d512e)
+![384025630-0a17a202-dbc8-4f61-89cd-3fafc44d512e](https://github.com/user-attachments/assets/06b521ed-4ba9-4e22-bf9b-89034630eed3)
 
 ---
 
