@@ -52,9 +52,7 @@ From table 1 you can see we are asking for 552 bnQu for the base operations for 
 
 **Table 2**
 
-![image2](https://github.com/user-attachments/assets/09740794-3557-4c2f-861d-4f481031d7d1)
-
-
+![image3](https://github.com/user-attachments/assets/4708c290-a28f-4c64-b3a3-22148fcb5935)
 
 ---
 
