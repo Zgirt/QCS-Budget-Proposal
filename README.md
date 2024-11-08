@@ -48,7 +48,7 @@ The SFO team focuses on supporting the other workgroups and the ecosystem with s
 
 ![image 1](https://github.com/user-attachments/assets/3749649c-e2b2-4c15-96ae-7eeecc6eaea3)
 
-From Table 1, we are requesting **552 bnQu** for base operations over 3 months, likely split into 3 monthly requests. Optional marketing boosters could increase the request to **663 bnQu** and **712 bnQu** respectively. This budget is below the CCF income rate, leaving funds available for other initiatives. The payout schedule depends on other proposals. See Table 2 for CCF balance projections including Core Tech budget assumption.
+From table 1 you can see we are asking for 552 bnQu for the base operations for 3 months, most probably split into 3 monthly requests to the computers. With optional marketing boosters increasing the request to 663 bnQu and 712 bnQ respectively, spread again over 3 monthly requests. This budget is below the CCF income rate and there will be enough funds left to finance other initiatives. The payout schedule is not yet set in stone case it also depends on the other proposals.See below table 2 for CCF balance projections including Core Tech budget assumption:
 
 **Table 2**
 
