@@ -29,7 +29,8 @@ The Marketing team focuses on increasing the brand awareness and visibility of Q
 
 ### Ecosystem Development (5 HC)
 
-The Ecosystem Development team focuses on expanding the Qubic ecosystem through grants programs, incubator programs, crypto partnerships, and institutional real-world partnerships. In Q3 and Q4, the team onboarded close to 10 projects, including **Vottun** and **Qubex**, contributing to wider user adoption. The requested budget will cover running costs, onboarding a new market maker, and organizing smaller events.
+The Ecosystem Development team focuses on expanding the Qubic ecosystem through grants programs, incubator programs, crypto partnerships, and institutional real-world partnerships. In Q3 and Q4, the team onboarded close to 10 projects, including **Vottun** and **Qubex**, contributing to wider user adoption. The requested budget will cover running costs, onboarding a new market maker, and organizing smaller events. Additionally, the team will work to pave the way for the ecosystem to operate independently in a decentralized manner as quickly as possible.
+
 
 ### Community Management (15 HC)
 
@@ -77,12 +78,6 @@ A. Yes, the funds are adequate. We’ve secured a partnership with a new MM, to 
 
 **Q. Who is part of Qubic Core Services?**  
 A. The teams include:
-
-- **Marketing**
-- **Ecosystem Development**
-- **Strategy, Operations, Finance (SOF)**
-- **Community Management**
-
 ---
 | Marketing                        | Ecosystem Development          | Strategy, Operations, Finance (SOF) | Community Management        |
 |----------------------------------|--------------------------------|-------------------------------------|-----------------------------|
