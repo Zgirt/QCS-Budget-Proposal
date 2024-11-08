@@ -21,8 +21,8 @@ All QCS workgroups work closely together to achieve the following two objectives
 
 The Marketing team focuses on increasing the brand awareness and visibility of Qubic. It does this through social marketing, content marketing, growth marketing, and PR. To accelerate our impact, we’ve partnered with **Serotonin**, who consults Qubic on brand messaging, earned, paid, and owned media. This budget proposal includes two options to further boost Qubic’s marketing activity:
 
-- **Booster 1 - Tier 1 PR**: $40k per month on top of base -> This allows us to advertise Qubic on renowned platforms like Coindesk, Coindesk Newsletters, Cointelegraph, etc.
-- **Booster 1 + 2 - Tier 1 PR + KOLs**: $80k per month on top of base -> PR from Booster 1 with paid KOLs, managed by some of our current organic KOLs who work only with reputable KOLs.
+- **Booster 1 - Tier 1 PR**: 40k p.month on top of base  -> This will allows us to advertise Qubic on renowned platforms like Coindesk , Coindesk Newsletters, Cointelegraph etc.
+- **Booster 1 + 2 - Tier 1 PR + KOLs**: 80k p.month on top of base -> PR from Booster 1 with paid KOLs that are approved and management by some of our current organic KOLs that will Work only with legit and reputable KOLs.
 
 **Note**: Important to know is that this is still not full throttle marketing compared to other projects and for the things we want to achieve. But while looking at the current CCF these are reasonable numbers that will still get us an awesome boost short term. 
 
@@ -46,7 +46,11 @@ The SOF team supports the other workgroups with strategy, operations, and financ
 
 **Table 1**  
 
-![384025112-a1cad879-b563-4d1e-a136-456a96f7e5fe](https://github.com/user-attachments/assets/5cdd29ac-a001-49a5-8bd6-a337c96af771)
+
+
+
+
+
 
 From Table 1, we are requesting **552 bnQu** for base operations over 3 months, likely split into 3 monthly requests. Optional marketing boosters could increase the request to **663 bnQu** and **712 bnQu** respectively. This budget is below the CCF income rate, leaving funds available for other initiatives. The payout schedule depends on other proposals. See Table 2 for CCF balance projections including Core Tech budget assumption.
 
