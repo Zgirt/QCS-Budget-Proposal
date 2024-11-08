@@ -25,7 +25,7 @@ The Marketing team focuses on increasing the brand awareness and visibility of Q
 - **Booster 1 - Tier 1 PR**: $40k per month on top of base -> This allows us to advertise Qubic on renowned platforms like Coindesk, Coindesk Newsletters, Cointelegraph, etc.
 - **Booster 1 + 2 - Tier 1 PR + KOLs**: $80k per month on top of base -> PR from Booster 1 with paid KOLs approved and managed by some of our current organic KOLs. We work only with reputable KOLs.
 
-**Note**: This is not full-throttle marketing compared to other projects, but it is reasonable given the current CCF budget.
+**Note**: Important to know is that this is still not full throttle marketing compared to other projects and for the things we want to achieve. But while looking at the current CCF these are reasonable numbers that will still get us an awesome boost short term. 
 
 ### Ecosystem Development (5 HC)
 
