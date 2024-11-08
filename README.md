@@ -34,7 +34,7 @@ The Ecosystem Development team focuses on expanding the Qubic ecosystem through 
 
 ### Community Management (15 HC)
 
-TThe Community Management team moderates the Qubic Discord server and Telegram channel. It also relies on volunteers. Together with volunteers they are a total team of 22. The team ensures that both existing and new community members are welcomed, encourages conversations and makes sure community guidelines are followed.Furthermore there are engagement campaigns running on discord and telegram, like quizzes, game night, etc, with small prizes to win. The budget requested is to fund running costs and to fund these smaller mini games to keep community members engaged.
+The Community Management team moderates the Qubic Discord server and Telegram channel. It also relies on volunteers. Together with volunteers they are a total team of 22. The team ensures that both existing and new community members are welcomed, encourages conversations and makes sure community guidelines are followed.Furthermore there are engagement campaigns running on discord and telegram, like quizzes, game night, etc, with small prizes to win. The budget requested is to fund running costs and to fund these smaller mini games to keep community members engaged.
 
 ### Strategy, Operations, Finance (SOF) (3 HC)
 
