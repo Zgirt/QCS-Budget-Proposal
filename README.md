@@ -85,18 +85,17 @@ A. Yes, we’ve secured a new MM partnership, and funds from the previous MM wil
 | CryptoDeighs (Growth/Content Marketing) | Aleish (Ecosystem Rep. South-America) |                                  | Rayyan                      |
 | Iam33 (Content Writer)           | Daniel (Ecosystem Europe)      |                                     | El Clip                     |
 | ShedingDog (Content Writer)      | Open Vacancy (Ecosystem Rep USA)|                                     | Hash                        |
-| Senhs (Video Designer)           | Yigit                          |                                     |                             |
-| LabsWolf (Advisor)               | Gandalf                        |                                     |                             |
-|                                  | KYE                            |                                     |                             |
-|                                  | Doge                           |                                     |                             |
-|                                  | Toddizzle                      |                                     |                             |
-|                                  | Eblademeastro                  |                                     |                             |
-|                                  | Pommes                         |                                     |                             |
-|                                  | PeterB                         |                                     |                             |
-|                                  | Xarkur                         |                                     |                             |
-|                                  | Zoxx                           |                                     |                             |
-|                                  | Charlz                         |                                     |                             |
-|                                  | Satoshi                        |                                     |                             |
-
+| Senhs (Video Designer)           |                                |                                     | Yigit                       |
+| LabsWolf (Advisor)               |                                |                                     | Gandalf                     |
+|                                  |                                |                                     | KYE                         |
+|                                  |                                |                                     | Doge                        |
+|                                  |                                |                                     | Toddizzle                   |
+|                                  |                                |                                     | Eblademeastro               |
+|                                  |                                |                                     | Pommes                      |
+|                                  |                                |                                     | PeterB                      |
+|                                  |                                |                                     | Xarkur                      |
+|                                  |                                |                                     | Zoxx                        |
+|                                  |                                |                                     | Charlz                      |
+|                                  |                                |                                     | Satoshi                     |
 
 
