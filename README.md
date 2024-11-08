@@ -46,11 +46,7 @@ The SFO team focuses on supporting the other workgroups and the ecosystem with s
 
 **Table 1**  
 
-
-
-
-
-
+![image 1](https://github.com/user-attachments/assets/3749649c-e2b2-4c15-96ae-7eeecc6eaea3)
 
 From Table 1, we are requesting **552 bnQu** for base operations over 3 months, likely split into 3 monthly requests. Optional marketing boosters could increase the request to **663 bnQu** and **712 bnQu** respectively. This budget is below the CCF income rate, leaving funds available for other initiatives. The payout schedule depends on other proposals. See Table 2 for CCF balance projections including Core Tech budget assumption.
 
