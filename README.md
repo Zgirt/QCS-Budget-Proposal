@@ -52,29 +52,30 @@ From Table 1, we are requesting **552 bnQu** for base operations over 3 months, 
 
 **Table 2**
 
-![384025630-0a17a202-dbc8-4f61-89cd-3fafc44d512e](https://github.com/user-attachments/assets/06b521ed-4ba9-4e22-bf9b-89034630eed3)
+![image2](https://github.com/user-attachments/assets/59c9da4b-b0ec-49c4-806d-72575ea09f44)
 
 ---
 
 ## FAQ
 
 **Q. Why do you need so much funding now?**  
-A. We need increased marketing power for ads on X and Telegram, paid sponsorships, and KOL onboarding to capitalize on the bull run. We are also expanding marketing into the United States, raising budget needs.
+A. We need more marketing power in terms of ads on X and Telegram, paid sponsorships and onboarding of KOLs to make sure we catch the bullrun. We're also expanding our marketing into the United States which will increase budget needs.
 
 **Q. How will you measure the impact of marketing and what if it doesn’t work?**  
-A. We hold weekly calls with **Serotonin** to track channel growth and funnel conversions across owned, earned, and paid media. We discuss opportunities and blockers. All QCS members and some community OGs attend. We aim to increase Qubic’s followers on X, Discord, and Telegram by 25%, achieve a 2-8% CTR from Spindl Ads, secure 5 paid sponsorships, 5 media hits, 3 bylines, and 2 podcasts per quarter. If this approach doesn’t yield results by February, we will pivot, explore new agencies, or let the community take control.
+A. We have weekly calls with Serotonin about the growth of our channels and funnel conversions across owned, earned and paid media. We discuss opportunities and blockers. Attending are all members of QCS and some community OG's. We’re aiming to drive a 25% increase in Qubic’s X, Discord and Telegram followers.To have a 2-8% CTR from Spindl Ads to Qubic site. We’re also aiming to have at least 5 paid sponsorships, 5 media hits, 3 bylines and 2 podcasts per quarter. 
+If this doesn't work over the period to February we will pivot. We can either look for another marketing agency, add in more experts or let the community take control.
 
 **Q. How do you keep the community informed about progress?**  
-A. We provide weekly QCS updates, monthly marketing progression updates, and a monthly spending report.
+A. We give weekly QCS updates, monthly marketing progression updates and a monthly spending report
 
 **Q. Why is there no budget for listing?**  
-A. We prioritized running costs and marketing. Listing costs vary, and we prefer to request a separate budget when closing a listing. Funds are available as shown below.
+A. We find it more important at this point to have the running costs and marketing budget approved. Also listing prices may vary and we don't want to include very rough estimates, that might be too much or too little. When we get into the final phases of closing a listing, we will request a separate budget for it. Funds are available, see question below.
 
 **Q. Do we have enough funds to meet this budget request?**  
-A. Yes, Table 2 shows projected CCF balances, including both boosters. Our request is below the CCF income, leaving the current balance unaffected. We also accounted for Core Tech and Ledger proposal expenses. The end balance for January is projected at **373 bnQu**, approximately USD 560k at the current rate, enough for new projects or listings.
+A. Yes, in table 2 you can see the projected CCF balances for our proposal including both boosters. Our request is lower than the CCF income, so our proposal does not affect the current balance. But we also anticipated the Core Tech and Ledger proposal expenses. With all requests combined, CCF will have an end balance End of Jan of about 373 bnQu (today ~500 bnQu) and at current price this is about USD 560k, which gives enough reserves for new projects or listings if required. 
 
 **Q. Are these funds sufficient for the Market Makers (MMs)?**  
-A. Yes, the funds are adequate. We’ve secured a partnership with a new MM, to be announced soon. We will receive **246 bnQu** back from the previous MM, which will be transferred to the new MM.
+A. Yes, these funds should be enough at this point. We have secured a partnership with a new MM which we will announce soon. We receive 246bln back from the previous market maker and these will move into the new market maker
 
 **Q. Who is part of Qubic Core Services?**  
 A. The teams include:
