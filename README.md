@@ -27,7 +27,7 @@ The Marketing team focuses on increasing the brand awareness and visibility of Q
 **Note**: Important to know is that this is still not full throttle marketing compared to other projects and for the things we want to achieve. But while looking at the current CCF these are reasonable numbers that will still get us an awesome boost short term. 
 
 
-### Ecosystem Development (5 HC)
+### Ecosystem Development (6 HC)
 
 The Ecosystem Development team focuses on expanding the Qubic ecosystem through the development of grants programs, incubator program, crypto partnerships and institutional real-world partnerships. In Q3 and Q4, the Ecosystem team has onboarded close to 10 different projects onto the Qubic ecosystem, among them Vottun and Qubex that are creating wider user adoption. The team is also responsible for maintaining relationships with exchanges, listings, market makers and universities. The budget requested is to fund running costs, to onboard a new market maker and to organize smaller events. Additionally, the team will work to pave the way for the ecosystem to operate independently in a decentralized manner as quickly as possible.
 
@@ -72,7 +72,7 @@ A. We give weekly QCS updates, monthly marketing progression updates and a month
 A. We find it more important at this point to have the running costs and marketing budget approved. Also listing prices may vary and we don't want to include very rough estimates, that might be too much or too little. When we get into the final phases of closing a listing, we will request a separate budget for it. Funds are available, see question below.
 
 **Q. Do we have enough funds to meet this budget request?**  
-A. Yes, in table 2 you can see the projected CCF balances for our proposal including both boosters. Our request is lower than the CCF income, so our proposal does not affect the current balance. But we also anticipated the Core Tech and Ledger proposal expenses. With all requests combined, CCF will have an end balance End of Jan of about 373 bnQu (today ~500 bnQu) and at current price this is about USD 560k, which gives enough reserves for new projects or listings if required. 
+A. Yes, in table 2 you can see the projected CCF balances for our proposal including both boosters. Our request is lower than the CCF income, so our proposal does not affect the current balance. But we also anticipated the Core Tech and Ledger proposal expenses. With all requests combined, CCF will have an end balance End of Jan of about 391 bnQu (today ~500 bnQu) and at current price this is about USD 586k, which gives enough reserves for new projects or listings if required 
 
 **Q. Are these funds sufficient for the Market Makers (MMs)?**  
 A. Yes, these funds should be enough at this point. We have secured a partnership with a new MM which we will announce soon. We receive 246bln back from the previous market maker and these will move into the new market maker
