@@ -29,16 +29,16 @@ The Marketing team focuses on increasing the brand awareness and visibility of Q
 
 ### Ecosystem Development (5 HC)
 
-The Ecosystem Development team focuses on expanding the Qubic ecosystem through grants programs, incubator programs, crypto partnerships, and institutional real-world partnerships. In Q3 and Q4, the team onboarded close to 10 projects, including **Vottun** and **Qubex**, contributing to wider user adoption. The requested budget will cover running costs, onboarding a new market maker, and organizing smaller events. Additionally, the team will work to pave the way for the ecosystem to operate independently in a decentralized manner as quickly as possible.
+The Ecosystem Development team focuses on expanding the Qubic ecosystem through the development of grants programs, incubator program, crypto partnerships and institutional real-world partnerships. In Q3 and Q4, the Ecosystem team has onboarded close to 10 different projects onto the Qubic ecosystem, among them Vottun and Qubex that are creating wider user adoption. The team is also responsible for maintaining relationships with exchanges, listings, market makers and universities. The budget requested is to fund running costs, to onboard a new market maker and to organize smaller events. Additionally, the team will work to pave the way for the ecosystem to operate independently in a decentralized manner as quickly as possible.
 
 
 ### Community Management (15 HC)
 
-The Community Management team moderates the Qubic Discord server and Telegram channel, relying on volunteers. Together with volunteers, they form a team of 22. The team welcomes new members, encourages conversations, and ensures adherence to community guidelines. Engagement campaigns like quizzes and game nights with small prizes keep community members engaged. The requested budget covers running costs and mini-games.
+TThe Community Management team moderates the Qubic Discord server and Telegram channel. It also relies on volunteers. Together with volunteers they are a total team of 22. The team ensures that both existing and new community members are welcomed, encourages conversations and makes sure community guidelines are followed.Furthermore there are engagement campaigns running on discord and telegram, like quizzes, game night, etc, with small prizes to win. The budget requested is to fund running costs and to fund these smaller mini games to keep community members engaged.
 
 ### Strategy, Operations, Finance (SOF) (3 HC)
 
-The SOF team supports the other workgroups with strategy, operations, and finance initiatives. It manages the roadmap, objectives, key results, budgeting, HR, legal advisory, and onboarding of new projects. The requested budget covers running costs, team expansion (1 HC), incorporation of a Swiss association, and onboarding an external controller/accountant for expense reporting.
+The SFO team focuses on supporting the other workgroups and the ecosystem with strategy, operations and finance initiatives. It drives the roadmap, objective key-results, helps accelerate key- projects, budgeting, HR, legal advisory and helps to operationally onboard new projects into the Qubic ecosystem by for example providing guidance to write CCF or grant proposals. The budget requested is to fund running costs, to expand the team with 1HC to help support the growing ecosystem, to incorporate a Swiss association and to onboard an external controller/accountant that will help report expenses across QCS and/or Core Technology. 
 
 ---
 
