@@ -77,27 +77,26 @@ A. Yes, our request is below CCF income projections, leaving reserves for new pr
 A. Yes, we’ve secured a new MM partnership, and funds from the previous MM will be transferred.
 
 ---
-| Marketing                        | Ecosystem Development         | Strategy, Operations, Finance (SOF) | Community Management        |
-|----------------------------------|-------------------------------|-------------------------------------|-----------------------------|
-| Foley (Workgroup Lead)           | Alber (Workgroup Lead)        | Talentnodes (Workgroup Lead)        | Tom55 (Workgroup Lead)      |
-| DevDoSomething (Marketing Lead)  | Zgirt (Workgroup Lead,        |                                     |                             |
-|                                  |     Miner Relations)          | Karin (Legal Counsel)               | Salar                       |
-| Oreo (Designer)                  | Eric (Ecosystem Rep. Asia)    | Open Vacancy (SOF Ecosystem Support)| Braven                      |
-| CryptoDeighs (Growth/Content)    | Aleish (Eco Rep. S-America)   |                                     | Rayyan                      |
-| Iam33 (Content Writer)           | Daniel (Ecosystem Europe)     |                                     | El Clip                     |
-| ShedingDog (Content Writer)      | Open Vacancy (Eco Rep USA)    |                                     | Hash                        |
-| Senhs (Video Designer)           | Yigit                         |                                     |                             |
-| LabsWolf (Advisor)               | Gandalf                       |                                     |                             |
-|                                  | KYE                           |                                     |                             |
-|                                  | Doge                          |                                     |                             |
-|                                  | Toddizzle                     |                                     |                             |
-|                                  | Eblademeastro                 |                                     |                             |
-|                                  | Pommes                        |                                     |                             |
-|                                  | PeterB                        |                                     |                             |
-|                                  | Xarkur                        |                                     |                             |
-|                                  | Zoxx                          |                                     |                             |
-|                                  | Charlz                        |                                     |                             |
-|                                  | Satoshi                       |                                     |                             |
+| Marketing                        | Ecosystem Development          | Strategy, Operations, Finance (SOF) | Community Management        |
+|----------------------------------|--------------------------------|-------------------------------------|-----------------------------|
+| Foley (Workgroup Lead)           | Alber (Workgroup Lead)         | Talentnodes (Workgroup Lead)        | Tom55 (Workgroup Lead)      |
+| DevDoSomething (Marketing Lead)  | Zgirt (Workgroup Lead, Miner Relations) | Karin (Legal Counsel)             | Salar                       |
+| Oreo (Designer)                  | Eric (Ecosystem Rep. Asia)     | Open Vacancy (SOF Ecosystem Support)| Braven                      |
+| CryptoDeighs (Growth/Content Marketing) | Aleish (Ecosystem Rep. South-America) |                                  | Rayyan                      |
+| Iam33 (Content Writer)           | Daniel (Ecosystem Europe)      |                                     | El Clip                     |
+| ShedingDog (Content Writer)      | Open Vacancy (Ecosystem Rep USA)|                                     | Hash                        |
+| Senhs (Video Designer)           | Yigit                          |                                     |                             |
+| LabsWolf (Advisor)               | Gandalf                        |                                     |                             |
+|                                  | KYE                            |                                     |                             |
+|                                  | Doge                           |                                     |                             |
+|                                  | Toddizzle                      |                                     |                             |
+|                                  | Eblademeastro                  |                                     |                             |
+|                                  | Pommes                         |                                     |                             |
+|                                  | PeterB                         |                                     |                             |
+|                                  | Xarkur                         |                                     |                             |
+|                                  | Zoxx                           |                                     |                             |
+|                                  | Charlz                         |                                     |                             |
+|                                  | Satoshi                        |                                     |                             |
 
 
 
