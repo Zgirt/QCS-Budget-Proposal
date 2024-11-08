@@ -1,59 +1,54 @@
-# SteCo Budget Proposal
+# Qubic Core Services Budget Proposal
 
-**Proposal for approval**: the SteCo budget proposal for the next 3 months
+## Proposal for approval: Qubic Core Services budget proposal for the next 3 months
 
-Finance through CCF donations
+We’re changing our name from **Steering Committee (SteCo)** to **Qubic Core Services (QCS)** as it better reflects the services we want to provide to Qubic and the community.
 
-SteCo is requesting funding from the Computor Control Fund (CCF) to fund running costs like overhead and to fund larger impact initiatives from Marketing and Ecosystem. The budget overview includes a breakdown of the different workgroups and their budgeted expenditure.
+### Finance through CCF donations
+
+QCS is requesting funding from the **Computor Control Fund (CCF)** to fund running costs like overhead and to fund larger impact initiatives from Marketing and Ecosystem. The budget overview includes a breakdown of the different workgroups and their budgeted expenditure.
 
 ---
 
 ## Details about Workgroups
 
-All the SteCo workgroups work closely together to achieve the following two objectives:
+All QCS workgroups work closely together to achieve the following two objectives:
 
-- Develop a vibrant ecosystem for all our stakeholders (tokenholders, miners, partners and institutions)
-- Advance AI research and core development
-- Ensure Qubic’s ecosystem financial health and long-term success
-
----
+1. Develop a vibrant ecosystem for all our stakeholders (token holders, miners, partners, and institutions)
+2. Advance AI research and core development
+3. Ensure Qubic’s ecosystem financial health and long-term success
 
 ### Marketing (8 HC)
 
-The Marketing team focuses on increasing the brand awareness and brand visibility of Qubic. It does it through social marketing, content marketing, growth marketing and PR. To accelerate our impact, we’re partnered with Serotonin who consults Qubic on brand messaging, earned, paid and owned media. This budget proposal includes two options to further boost Qubics marketing activity:
+The Marketing team focuses on increasing the brand awareness and visibility of Qubic. It does this through social marketing, content marketing, growth marketing, and PR. To accelerate our impact, we’ve partnered with **Serotonin**, who consults Qubic on brand messaging, earned, paid, and owned media. This budget proposal includes two options to boost Qubic’s marketing activity:
 
-- **Booster 1 - Tier 1 PR** : 40k p.month on top of base -> This will allows us to advertise Qubic on renowned platforms like Coindesk, Coindesk Newsletters, Cointelegraph etc.
-- **Booster 1 + 2 - Tier 1 PR + KOLs** : 80k p.month on top of base -> PR from Booster 1 with paid KOLs that are approved and management by some of our current organic KOLs that will work only with legit and reputable KOLs.
+- **Booster 1 - Tier 1 PR**: $40k per month on top of base -> This allows us to advertise Qubic on renowned platforms like Coindesk, Coindesk Newsletters, Cointelegraph, etc.
+- **Booster 1 + 2 - Tier 1 PR + KOLs**: $80k per month on top of base -> PR from Booster 1 with paid KOLs approved and managed by some of our current organic KOLs. We work only with reputable KOLs.
 
-Important to know is that this is still not full throttle marketing compared to other projects and for the things we want to achieve. But while looking at the current CCF these are reasonable numbers that will still get us an awesome boost short term.
-
----
+**Note**: This is not full-throttle marketing compared to other projects, but it is reasonable given the current CCF budget.
 
 ### Ecosystem Development (5 HC)
 
-The Ecosystem Development team focuses on expanding the Qubic ecosystem through the development of grants programs, incubator program, crypto partnerships and institutional real-world partnerships. The team is also responsible for maintaining relationships with exchanges, listings, market makers and universities. The budget requested is to fund running costs, to onboard a new market maker and to organize smaller events.
-
----
+The Ecosystem Development team focuses on expanding the Qubic ecosystem through grants programs, incubator programs, crypto partnerships, and institutional partnerships. In Q3 and Q4, the team onboarded nearly 10 projects, including **Vottun** and **Qubex**, driving user adoption. The team also manages relationships with exchanges, listings, market makers, and universities. The requested budget covers running costs, onboarding a new market maker, and organizing smaller events.
 
 ### Community Management (15 HC)
 
-The Community Management team moderates the Qubic Discord server and Telegram channel. It also relies on volunteers. Together with volunteers they are a total team of 22. The team ensures that both existing and new community members are welcomed, encourages conversations and makes sure community guidelines are followed. Furthermore, there are engagement campaigns running on discord and telegram, like quizzes, game night, etc, with small prizes to win. The budget requested is to fund running costs and to fund these smaller mini games to keep community members engaged.
-
----
+The Community Management team moderates the Qubic Discord server and Telegram channel, including a total of 22 members with volunteers. They ensure new members are welcomed, encourage conversations, and enforce community guidelines. The requested budget covers running costs and engagement campaigns, like quizzes and game nights, to keep members engaged.
 
 ### Strategy, Operations, Finance (3 HC)
 
-The SFO team focuses on supporting the other workgroups and the ecosystem with strategy, operations and finance initiatives. It drives the roadmap, objective key-results, helps accelerate key-projects, budgeting, HR, legal advisory and helps to operationally onboard new projects into the Qubic ecosystem by for example providing guidance to write CCF or grant proposals. The budget requested is to fund running costs, to expand the team with 1HC to help support the growing ecosystem, to incorporate a Swiss association and to onboard an external controller/accountant that will help report expenses across SteCo and/or Core Technology.
+The SOF team supports other workgroups with strategy, operations, and finance initiatives. It manages the roadmap, objectives, budgeting, HR, legal advisory, and onboarding of new projects into the Qubic ecosystem. The requested budget covers running costs, team expansion, incorporation of a Swiss association, and onboarding an external controller/accountant for expense reporting.
 
 ---
 
 ## Budget Proposal
 
-### Table 1
+**Table 1**
 
 ![table 1](https://github.com/user-attachments/assets/a1cad879-b563-4d1e-a136-456a96f7e5fe)
 
-From table 1 you can see we are asking for 552 bnQu for the base operations for 3 months, with optional marketing boosters increasing the request to 663 bnQu and 712 bnQ respectively. This budget is below the CCF income rate and there will be enough funds left to finance other initiatives. See below table 2 for CCF balance projections:
+From Table 1, we are requesting **552 bnQu** for base operations over 3 months, split into 3 monthly requests. With optional marketing boosters, the request increases to **663 bnQu** and **712 bnQu**, respectively. The budget is below the CCF income rate, allowing funds for other initiatives. See **Table 2** for CCF balance projections, including Core Tech assumptions.
+
 
 ### Table 2
 
@@ -61,23 +56,48 @@ From table 1 you can see we are asking for 552 bnQu for the base operations for 
 
 ---
 
-## FAQ (Will update the FAQ as we go along)
+## FAQ
 
-**Q. Why do you need so much funds now?**  
-A. We need more marketing power in terms of ads on X and Telegram, paid sponsorships and onboarding of KOLs to make sure we catch the bullrun. We're also expanding our marketing into the United States which will increase budget needs.
+**Q. Why do you need so much funding now?**  
+A. We need more marketing power for ads on X and Telegram, paid sponsorships, and onboarding of KOLs to catch the bull run. We are also expanding marketing into the United States.
 
-**Q. How will you make sure that marketing has an impact and what will you do if it doesn't work?**  
-A. We have weekly calls with Serotonin about the growth of our channels and funnel conversions across owned, earned and paid media. We discuss opportunities and blockers. Attending are all members of SteCo and some community OG's. We’re aiming to drive a 25% increase in Qubic’s X, Discord and Telegram followers. To have a 2-8% CTR from Spindl Ads to Qubic site. We’re also aiming to have at least 5 paid sponsorships, 5 media hits, 3 bylines and 2 podcasts per quarter.  
-If this doesn't work over the period to February we will pivot. We can either look for another marketing agency, add in more experts or let the community take control.
+**Q. How will you measure marketing impact and what if it doesn’t work?**  
+A. We have weekly calls with **Serotonin** on channel growth and conversion metrics. We aim for a 25% increase in followers on X, Discord, and Telegram, and a 2-8% CTR from Spindl Ads to the Qubic site. If this doesn’t yield results by February, we will pivot to a new strategy.
 
-**Q. How do you keep the community informed about the progression?**  
-A. We give weekly SteCo updates, monthly marketing progression updates and a monthly spending report
+**Q. How do you keep the community informed about progress?**  
+A. We provide weekly QCS updates, monthly marketing updates, and a monthly spending report.
 
 **Q. Why is there no budget for listing?**  
-A. We find it more important at this point to have the running costs and marketing budget approved. Also listing prices may vary and we don't want to include very rough estimates, that might be too much or too little. When we get into the final phases of closing a listing, we will request a separate budget for it. Funds are available, see question below.
+A. We prioritized running costs and marketing. Listing costs will be requested separately when needed.
 
-**Q. Do we have enough funds to pay for your budget request?**  
-A. Yes, in table 2 you can see the projected CCF balances for our proposal including both boosters. Our request is lower than the CCF income, so our proposal does not affect the current balance. But we also anticipated the Core Tech and Ledger proposal expenses. With all requests combined, CCF will have an end balance End of Jan of about 400 bnQu (today ~500 bnQu) and at current price this is about USD 600k, which gives enough reserves for new projects or listings if required.
+**Q. Do we have enough funds for your budget request?**  
+A. Yes, our request is below CCF income projections, leaving reserves for new projects or listings.
 
-**Q. Are these enough funds for the MMs?**  
-A. Yes, these funds should be enough at this point. We have secured a partnership with a new MM which we will ann soon. We receive 246bln back from the previous market maker and these will move into the new market maker.
+**Q. Are these funds sufficient for Market Makers (MMs)?**  
+A. Yes, we’ve secured a new MM partnership, and funds from the previous MM will be transferred.
+
+---
+| Marketing                        | Ecosystem Development         | Strategy, Operations, Finance (SOF) | Community Management        |
+|----------------------------------|-------------------------------|-------------------------------------|-----------------------------|
+| Foley (Workgroup Lead)           | Alber (Workgroup Lead)        | Talentnodes (Workgroup Lead)        | Tom55 (Workgroup Lead)      |
+| DevDoSomething (Marketing Lead)  | Zgirt (Workgroup Lead,        |                                     |                             |
+|                                  |     Miner Relations)          | Karin (Legal Counsel)               | Salar                       |
+| Oreo (Designer)                  | Eric (Ecosystem Rep. Asia)    | Open Vacancy (SOF Ecosystem Support)| Braven                      |
+| CryptoDeighs (Growth/Content)    | Aleish (Eco Rep. S-America)   |                                     | Rayyan                      |
+| Iam33 (Content Writer)           | Daniel (Ecosystem Europe)     |                                     | El Clip                     |
+| ShedingDog (Content Writer)      | Open Vacancy (Eco Rep USA)    |                                     | Hash                        |
+| Senhs (Video Designer)           | Yigit                         |                                     |                             |
+| LabsWolf (Advisor)               | Gandalf                       |                                     |                             |
+|                                  | KYE                           |                                     |                             |
+|                                  | Doge                          |                                     |                             |
+|                                  | Toddizzle                     |                                     |                             |
+|                                  | Eblademeastro                 |                                     |                             |
+|                                  | Pommes                        |                                     |                             |
+|                                  | PeterB                        |                                     |                             |
+|                                  | Xarkur                        |                                     |                             |
+|                                  | Zoxx                          |                                     |                             |
+|                                  | Charlz                        |                                     |                             |
+|                                  | Satoshi                       |                                     |                             |
+
+
+
