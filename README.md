@@ -52,7 +52,8 @@ From Table 1, we are requesting **552 bnQu** for base operations over 3 months, 
 
 **Table 2**
 
-![image2](https://github.com/user-attachments/assets/07a9cb22-6467-4e34-9669-16c6b0087ab0)
+![image2](https://github.com/user-attachments/assets/09740794-3557-4c2f-861d-4f481031d7d1)
+
 
 
 ---
